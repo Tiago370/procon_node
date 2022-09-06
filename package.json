@@ -1,0 +1,24 @@
+{
+  "name": "procon_node",
+  "version": "1.0.0",
+  "description": "bbbbbbbb",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiago370/procon_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiago370/procon_node/issues"
+  },
+  "homepage": "https://github.com/Tiago370/procon_node#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
